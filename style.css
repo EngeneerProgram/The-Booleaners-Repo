@@ -30,3 +30,23 @@ h6{
 p{
     padding:10px;
 }
+table{
+    width: 100%;
+    text-align: center;
+    
+}
+.blue{
+    background-color: #1b8acae5;
+    color:white;
+    
+}
+
+.blu-chiaro{
+    text-align: center;
+    background-color: rgb(41, 180, 204);
+    
+}
+
+.spazio{
+    height: 20px;
+}
