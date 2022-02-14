@@ -33,6 +33,7 @@ p{
 table{
     width: 100%;
     text-align: center;
+    border-collapse: collapse;
     
 }
 .blue{
@@ -54,5 +55,5 @@ h4{
     padding:10px;
 }
 .lungo{
-  width: 30%;
+  width: 40%;
 }
